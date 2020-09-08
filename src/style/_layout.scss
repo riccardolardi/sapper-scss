@@ -1,0 +1,10 @@
+._layout {
+	color: $black;
+	background-color: white;
+	transition: all 250ms;
+
+	&.is-intro {
+		color: white;
+		background-color: blue;
+	}
+}
